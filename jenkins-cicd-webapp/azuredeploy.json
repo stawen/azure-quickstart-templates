@@ -30,7 +30,7 @@
     },
     "repositoryUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/stawen/azure-quickstart-templates/tree/master/jenkins-cicd-webapp",
+      "defaultValue": "https://github.com/stawen/azure-quickstart-templates/tree/master/jenkins-cicd-webapp/",
       "minLength": 1,
       "metadata": {
         "description": "GitHub repository URL for the source code."
