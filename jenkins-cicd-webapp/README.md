@@ -1,4 +1,4 @@
-# Custom Test into France Central
+# !!! Custom Test into France Central !!!
 
 # Java CI/CD using Jenkins and Azure Web Apps
 
@@ -11,7 +11,7 @@
 ![Best Practice Check](https://azurequickstartsservice.blob.core.windows.net/badges/jenkins-cicd-webapp/BestPracticeResult.svg)
 ![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/jenkins-cicd-webapp/CredScanResult.svg)
 
-[![Deploy To Azure](https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/jenkins-cicd-webapp/azuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/jenkins-cicd-webapp/azuredeploy.jsonn)
+[![Deploy To Azure](https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fstawen%2Fazure-quickstart-templates%2Fmaster%2Fjenkins-cicd-webapp%2Fazuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/stawen/azure-quickstart-templates/master/jenkins-cicd-webapp/azuredeploy.jsonn)
 
 
 
