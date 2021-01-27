@@ -191,7 +191,7 @@
       "kind": "java",
       "name": "[variables('appInsightsName')]",
       "apiVersion": "2015-05-01",
-      "location": "eastus",
+      "location": "[parameters('location')]",
       "tags": {
         "[concat('hidden-link:', resourceGroup().id, '/providers/Microsoft.Web/sites/', variables('webAppName'))]": "Resource"
       },
